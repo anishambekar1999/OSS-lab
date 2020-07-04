@@ -4,13 +4,13 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 The DApp User Interface when running should look like...
 
-![truffle test](project-6/screenshots/1.png)
+![truffle test](1.png)
 
-![truffle test](project-6/screenshots/2.png)
+![truffle test](2.png)
 
-![truffle test](project-6/screenshots/3.png)
+![truffle test](3.png)
 
-![truffle test](project-6/screenshots/4.png)
+![truffle test](4.png)
 
 
 ## Getting Started
@@ -48,7 +48,7 @@ truffle compile
 
 Your terminal should look something like this:
 
-![truffle test](project-6/screenshots/compile.png)
+![truffle test](compile.png)
 
 This will create the smart contract artifacts in folder ```build\contracts```.
 
@@ -60,7 +60,7 @@ truffle migrate --network rinkeby
 
 Your terminal should look something like this:
 
-![truffle test](project-6/screenshots/migrate.png)
+![truffle test](migrate.png)
 
 Test smart contracts:
 
@@ -70,9 +70,9 @@ truffle test
 
 All 10 tests should pass.
 
-![truffle test](project-6/screenshots/test1.png)
+![truffle test](test1.png)
 
-![truffle test](project-6/screenshots/test2.png)
+![truffle test](test2.png)
 
 In a separate terminal window, launch the DApp:
 
@@ -87,10 +87,10 @@ No
 
 ## UML Diagrams
 
-* [Activity diagram](project-6/screenshots/Activity_UML_Diagram.png?raw=true "Activity diagram")
-* [Sequence diagram](project-6/screenshots/Sequence_UML_Diagram.png?raw=true "Sequence diagram")
-* [State diagram](project-6/screenshots/State_UML_Diagram.png?raw=true "State diagram")
-* [Class diagram](project-6/screenshots/Class_UML.png?raw=true "Class diagram")
+* [Activity diagram](Activity_UML_Diagram.png?raw=true "Activity diagram")
+* [Sequence diagram](Sequence_UML_Diagram.png?raw=true "Sequence diagram")
+* [State diagram](State_UML_Diagram.png?raw=true "State diagram")
+* [Class diagram](Class_UML.png?raw=true "Class diagram")
 
 ## Built With
 
